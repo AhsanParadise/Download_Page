@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Download_Page</h1>
-A simple download page for developers. This webpage is very simple.
+A simple download page for developers. This webpage is very simple.<br>
    <!-- Status -->
     <img src="https://img.shields.io/badge/Status-Stable-green.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
