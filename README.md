@@ -1,7 +1,6 @@
 <div align="center">
 <h1>Download_Page</h1>
- <code>A simple download page for developers. This webpage is very simple.</code>
-
+ A simple <code>download page</code> for developers. This webpage is very simple.
 </div>
 
 
